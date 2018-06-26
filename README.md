@@ -1,6 +1,6 @@
 # Udacity - Natural Language Processing Nanodegree
 
-![NLP](Hang_NLP_Udacity_Nanodegree.pdf)
+![NLP](Hang-Degree.png)
 
 # Projects of Natural Language Processing
 
